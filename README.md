@@ -8,6 +8,7 @@ This project was developed as part of a Frontend Mentor challenge to practice re
 https://devdiegorosa.github.io/article-preview-component/
 
 
+
 👨‍💻 About the Project
 
 This project is a responsive article preview card component that displays an article title, description, author information and a share button.
@@ -15,6 +16,7 @@ This project is a responsive article preview card component that displays an art
 When the share button is clicked, a social sharing menu appears, allowing users to share the article on different platforms.
 
 The goal of this project was to practice building modern UI components, improve responsive layout skills, and implement simple JavaScript interactivity.
+
 
 
 🚀 Features
@@ -35,6 +37,7 @@ The goal of this project was to practice building modern UI components, improve 
 • Responsive Design
 
 
+
 🎯 What I Learned
 
 While building this project I practiced:
@@ -47,6 +50,7 @@ While building this project I practiced:
 • Improving component structure and styling
 
 
+
 🎨 Challenge
 
 This project was built as part of a challenge from:
@@ -57,11 +61,13 @@ https://www.frontendmentor.io/
 Frontend Mentor challenges help developers improve their coding skills by building realistic projects.
 
 
+
 🌐 Portfolio
 
 Check out my portfolio:
 
 https://devdiegorosa.github.io/projeto-portifolio/
+
 
 
 👨‍💻 Author
