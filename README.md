@@ -7,7 +7,6 @@ This project was developed as part of a Frontend Mentor challenge to practice re
 🔗 Live Demo
 https://devdiegorosa.github.io/article-preview-component/
 
-⸻
 
 👨‍💻 About the Project
 
